@@ -1,0 +1,1 @@
+palette link https://coolors.co/palette/6a3400-b06e0e-020307-17bdb9-f9e014
